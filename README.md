@@ -1,7 +1,7 @@
 # Olá, eu sou o Arthur 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Zona Leste (formação prevista em dezembro de 2027)
-💼 Formado pelo programa **PROPROFISSÃO** do Instituto Proa
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Zona Leste (formação prevista em dezembro de 2027)<br>
+💼 Formado pelo programa **PROPROFISSÃO** do Instituto Proa<br>
 ⚖️ **Scrum Master** e desenvolvedor no projeto **Juriki**, uma plataforma jurídica com IA
 
 ---
