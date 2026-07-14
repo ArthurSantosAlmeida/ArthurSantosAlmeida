@@ -21,16 +21,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical&hide_border=true)
-
----
-
 ## 🔭 Em desenvolvimento agora
 
 - **Juriki** — plataforma de serviços jurídicos com IA (React + Spring Boot + MySQL + n8n)
